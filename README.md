@@ -4,7 +4,7 @@ This project is a **clone of the official Tesla website**, built as a learning e
 
 ## 📸 Screenshot
 
-![Website Preview](./screenshot.png)
+![Website Preview](./public/screenshot.png)
 
 ## 🚀 Features
 
